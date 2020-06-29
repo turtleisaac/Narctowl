@@ -1,4 +1,4 @@
-# NARCTowl
+# NARCtowl
 
 Narc Unpacker and Packer for Nintendo DS Pokémon Games
 
