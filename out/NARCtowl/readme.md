@@ -1,6 +1,5 @@
-# NARCTowl
-
-Narc Unpacker and Packer for Nintendo DS Pokémon Games
+Author: turtleisaac
+Date: 5/18/2020
 
 Thanks/ Credits to:
  * PlatinumMaster for writing the python NARCTool version I used as a reference
