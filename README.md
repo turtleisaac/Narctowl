@@ -9,6 +9,6 @@ Thanks/ Credits to:
 
 Usage is as follows: java -jar NARCtowl.jar <arguments> 
  * Unpacking: java -jar NARCtowl.jar unpack <file name (include .narc)> 
- * Packing: java -jar NARCtowl.jar pack <name of directory in extracted folder> <name of file to create (do not include .narc)> 
+ * Packing: java -jar NARCtowl.jar pack \<name of directory in extracted folder> \<name of file to create (do not include .narc)> 
   * Note: Narc must be in the same folder as NARCtowl.jar 
   * Note: Directory to construct narc from must be in "extracted" directory
