@@ -1,4 +1,6 @@
-# NARCtowl
+# Narctowl
+
+# Narctowl is now a part of [PokEditor](https://github.com/turtleisaac/PokEditor), and therefore this version is discontinued. Please read PokEditor's README before attempting to use it.
 
 Narc Unpacker and Packer for Nintendo DS Pokémon Games
 
