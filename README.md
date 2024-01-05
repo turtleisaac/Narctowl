@@ -1,6 +1,6 @@
 # Narctowl
 
-# ~Narctowl is now a part of [PokEditor](https://github.com/turtleisaac/PokEditor), and therefore this version is discontinued. Please read PokEditor's README before attempting to use it.~ Narctowl (and PokEditor v1) (and PokEditor v2) are all discontinued and deprecated. For all intents and purposes, Narctowl is dead and no longer used in any context or in any tool. From this point onwards, use [Nds4j](https://github.com/turtleisaac/Nds4j) if you need to unpack or repack ROM files, as it contains the replacement functionality alongside much, much more.
+# ~Narctowl is now a part of [PokEditor](https://github.com/turtleisaac/PokEditor), and therefore this version is discontinued. Please read PokEditor's README before attempting to use it.~ Narctowl (and PokEditor v1) (and PokEditor v2) are all discontinued and deprecated. For all intents and purposes, Narctowl is dead and no longer used in any context or in any tool. From this point onwards, use [Nds4j](https://github.com/turtleisaac/Nds4j) if you need to unpack or repack NARC files, as it contains the replacement functionality alongside much, much more.
 
 Narc Unpacker and Packer for Nintendo DS Pokémon Games
 
